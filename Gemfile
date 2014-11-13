@@ -4,6 +4,7 @@ gem 'pg'
 gem 'devise', '~> 3.4.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
+gem 'twitter-bootstrap-rails', '~> 3.2.0'
 
 gem 'spring',        group: :development
 
